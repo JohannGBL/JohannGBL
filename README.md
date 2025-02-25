@@ -21,25 +21,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" height="40" alt="SQL logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL logo"  />
   <img width="12" />
  
 </div>
 
-###
-<!--
-**JohannGBL/JohannGBL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 Sou estudante de Desenvolvimento de sistemas
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
