@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2024 <br>📚 I'm currently cursando o ensino médio e técnico em desenvolvimento de sistemas<br>🎯 Goals: Conquistar meu imóvel próprio, um emprego estável e ter uma família invrível. <br>🎲 Fun fact: Estou toda hora buscando aprender coisas novas.</p>
+<p align="left">✨ Programando desde 2024 <br>📚 I'm currently cursando o ensino médio e técnico em desenvolvimento de sistemas<br>🎯 Goals: Conquistar meu imóvel próprio, um emprego estável e ter uma família incrível. <br>🎲 Fun fact: Estou toda hora buscando aprender coisas novas.</p>
 
 ###
 
